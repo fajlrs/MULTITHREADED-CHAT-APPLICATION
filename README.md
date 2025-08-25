@@ -107,6 +107,34 @@ Normal text → Broadcast to all users
 
 
 
+## OUTPUT
+
+
+### TERMINAL - 1
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c1253ee5-b86b-4225-8e9f-21c797b74e3d" />
+
+
+## TERMINAL - 2
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/89bc1505-b5df-4ff4-8a1d-24a4590ff76d" />
+
+
+## TERMINAL - 3
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c3912a03-8ceb-41bb-aea8-4b13dfdc6b96" />
+
+## TERMINAL - 4 
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/3314265b-0cd9-4d6e-93bc-87957e7ee933" />
+
+
+
+
+
+
+
+
 
 
 

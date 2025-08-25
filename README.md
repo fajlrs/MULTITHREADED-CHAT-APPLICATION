@@ -104,12 +104,6 @@ Normal text → Broadcast to all users
 ✔ Using synchronized collections for safe concurrent access
 ✔ Building a real-time chat application from scratch
 
-### 🏆 Internship Task
-
-This project fulfills the requirements of:
-CODTECH Internship – Task 3
-✅ Build a client-server chat application using Java Sockets & Multithreading
-✅ Deliverable: A functional chat app with multiple users communicating in real time
 
 
 
